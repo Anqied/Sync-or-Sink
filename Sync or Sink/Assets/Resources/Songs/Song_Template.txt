@@ -1,0 +1,13 @@
+﻿Name of Song,BPM,timeshift(in milliseconds)
+beat letters(s,d,f,space) direction(up,down,left,right,none) pose
+beat letters pose
+
+Example:
+Generic Song, 60, 1000
+1 d,f none pose1
+2 d up
+3 s,space left pose2
+
+
+timeshift is time from beginning of audio file to beginning of song
+beat is beat of song. Beat 1 is 0

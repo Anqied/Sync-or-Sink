@@ -1,0 +1,150 @@
+﻿Credits - ST*140*0
+21 f none Open
+22 d none
+22.5 s none
+23 a none
+24 s none
+24.5 d none
+25 f none None
+26 d none
+26.5 s none
+27 a none
+29 s none LlamaLeft
+29.5 a none
+30 s  none
+30.5 d none
+31 f none None
+33 f none LlamaRight
+34 f none
+34.5 d none
+35 s none None
+37 a none VerticalLeft
+38 s none
+38.5 d none
+39 f none
+40 d none
+40.5 s none
+41 a none SplitLeft
+42 s none
+42.5 d none
+43 f none
+44 a none
+45 d none VerticalRight
+45.5 f none
+46 d none
+46.5 s none
+47 a none
+48 f none
+49 a none SplitRight
+50 s none
+50.5 d none
+51 f none
+53 a,f none UpperNormal
+54 a none
+54.5 s none
+55 d none
+56 s none
+56.5 a none
+57 s none
+57.5 a none
+58 s none
+58.5 d none
+59 f none
+61 f none Open
+62 f none
+62.5 d none
+63 s none SplitLeft
+65 a none
+66 s none
+66.5 d none SplitRight
+67 f none
+69 f none None
+70 d none
+70.5 s none
+71 a none
+72 s none
+72.5 d none
+73 f none SpanishLeft
+74 d none
+74.5 s none
+75 a none
+76 f none
+77 f none SpanishRight
+78 f none
+78.5 d none
+79 s none
+80 a none
+81 a none None
+82 s none
+82.5 d none
+83 f none
+85 a none VerticalLeft
+86 f none
+87 s none None
+87.5 d none
+89 f none VerticalRight
+90 a none
+91 d none None
+91.5 s none
+93 a none Open
+94 f none
+95 s none None
+95.5 d none
+97 f none UpperNormal
+98 a none
+99 d none
+99.5 s none
+100 a,f none Open
+101 f none VerticalLeft
+102 a none
+103 d none
+104 s none
+105 f none VerticalRight
+106 a none
+107 d none
+108 s none
+110 a none None
+111 f none
+112 a none
+113 s none UpperNormal
+113.75 d none
+114.5 s none
+115.25 d none
+117 a none BentKneeLeft
+118 s none
+119 d none BentKneeRight
+120 s none
+121 f none None
+123 d none
+123.5 s none
+125 a none CraneLeft
+128.5 s none
+129 a none CraneRight
+133 f none SpanishLeft
+134 d none
+135 s none
+136 a none
+137 a none SpanishRight
+138 s none
+139 d none 
+140 f none
+141 a none None
+143 f none UpperNormal
+145 a none
+145.75 s none
+146.5 d none
+147.25 f none
+148 f none
+149 a none CraneLeft
+150 s none
+151 d none
+152 f none
+153 f none CraneRight
+157 a none UpperNormal
+161 a none
+161.75 f none
+162.5 s none
+163.25 d none
+165 s,d none None
+167 f none Open
+149

@@ -1,0 +1,100 @@
+Float*181*0
+9 s NoneZGHHHH
+17 d None
+25 f None
+33 a None None
+41 s None Open
+49 d None None
+57 f None Open
+61 a,s,d,f None None
+65 a None FlamingoLeft
+69 d None None
+73 s None FlamingoRight
+77 f None Open
+81 a None LlamaRight
+85 d None None
+89 s None LlamaLeft
+93 f None Open
+97 a None BentKneeLeft
+99 f None None
+101 s None BentKneeRight
+103 d None Open
+105 a None SpanishLeft
+107 f None None
+109 s None SpanishRight
+111 d None Open
+113 f None None
+115 d None
+117 s None
+119 a None 
+121 a None SplitLeft
+123 s None
+125 d None 
+127 f None
+129 s None SplitRight
+133 d None
+137 f None 
+141 a None
+145 a None None
+147 f None
+149 a None 
+151 f None
+153 s None SpanishLeft
+155 d None 
+157 s None
+159 d None
+161 a None Open
+163 s None 
+165 d None
+167 f None
+169 a None SpanishRight
+171 s None
+173 d None
+175 f None
+177 f None Open
+179 d None
+181 s None
+183 a None
+185 f None None
+187 d None
+189 s None
+191 a None
+193 a,f None LlamaLeft
+197 s,d None LlamaRight
+199 a,f None LlamaLeft
+201 a None FlamingoLeft
+203 f None None
+205 a None FlamingoRight
+207 f None Open
+209 a None LlamaLeft
+211 f None None
+213 a None LlamaRight
+215 f None Open
+217 s None BentKneeLeft
+219 d None None
+221 s None BentKneeRight
+223 d None Open
+225 s None SpanishLeft
+227 d None None
+229 s None SpanishRight
+231 d None Open
+233 a None SplitLeft
+235 s None None
+237 d None SplitRight
+239 f None Open 
+241 f None FlamingoLeft
+243 d None None
+245 s None FlamingoRight
+247 a None Open 
+249 a None SplintLeft
+251 d None None
+253 s None SplintRight
+255 f None Open
+257 a None CraneLeft
+259 f None None
+261 s None CraneRight
+263 d None Open
+265 a,s,d,f None None
+268 f None Open
+269 f None
+109

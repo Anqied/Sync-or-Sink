@@ -1,0 +1,419 @@
+Serendipity*120*0
+17 f none SpanishLeft
+21 d none SpanishRight
+25 s none SpanishLeft
+29 a none SpanishRight
+33 f none LlamaRight
+36.5 f none
+37 d none LlamaLeft
+40.5 d none
+41 s none LlamaRight
+44.5 s none
+45 a none LlamaLeft
+49 f up CraneRight
+51 a up None
+51.75 s up
+52.5 d up
+53 a down CraneLeft
+55 f down None
+55.75 d down
+56.5 s down
+57 f left CraneRight
+59 a left None
+59.75 s left
+60.5 d left
+61 a right CraneLeft
+63 f right None
+63.75 d right
+64.5 s right
+65 f up UpperNormal
+66 a up SpanishLeft
+67 s up LlamaRight
+67.75 d up None
+68.5 f up
+69 a down UpperNormal
+70 f down SpanishRight
+71 d down LlamaLeft
+71.75 s down None
+72.5 a down
+73 f left UpperNormal
+74 a left SpanishLeft
+75 s left LlamaRight
+75.75 d left None
+76.5 f left
+77 a right UpperNormal
+78 f right SpanishRight
+79 d right LlamaLeft
+79.75 s right None
+80.5 a right
+81 f none VerticalRight
+82 f none BentKneeRight
+83.5 d none None
+84 a none 
+84.5 d none
+85 a none VerticalLeft
+86 a none BentKneeLeft
+87.5 s none None
+88 f none
+88.5 s none
+89 d none VerticalRight
+90 d none BentKneeRight
+91.5 f none None
+92 s none
+92.5 f none
+93 s none VerticalLeft
+94 s none BentKneeLeft
+95.5 a none None
+96 d none 
+96.5 a none
+97 f up VerticalRight
+98 f up BentKneeRight
+99.5 d up
+100 a up CraneRight
+100.5 d up
+101 a down VerticalLeft
+102 a down BentKneeLeft
+103.5 s down
+104 f down CraneLeft
+104.5 s down
+105 d left VerticalRight
+106 d left BentKneeRight
+107.5 f left
+108 s left CraneRight
+108.5 f left
+109 s right VerticalLeft
+110 s right BentKneeLeft
+111.5 a right
+112 d right CraneLeft
+112.5 a right
+113 f none UpperNormal
+115 a none BentKneeRight
+117 s left FlamingoRight
+117.75 d left
+118.5 f left SplitRight
+119.25 d left
+120 s left None
+120.5 a left
+121 a none UpperNormal
+123 f none BentKneeLeft
+125 d right FlamingoLeft
+125.75 s right
+126.5 a right SplitLeft
+127.25 s right
+128 d right None
+128.5 f right
+129 f none UpperNormal
+131 a none BentKneeRight
+133 s up FlamingoRight
+133.75 d up
+134.5 f up SplitRight
+135.25 d up
+136 s up None
+136.5 a up
+137 a none UpperNormal
+139 f none FlamingoLeft
+141 d none SplitLeft
+141.75 s none
+142.5 a none
+143 s down None
+143.75 d down
+144.5 f down
+145 f none LlamaRight
+146 d none CraneRight
+147 s up None
+147.75 d up
+148.5 s up
+149 a none LlamaLeft
+150 s none CraneLeft
+151 d down None
+151.75 s down
+152.5 d down
+153 f none LlamaRight
+154 d none CraneRight
+155 s left None
+155.75 d left
+156.5 s left
+157 a none LlamaLeft
+158 s none CraneLeft
+159 d right None
+159.75 s right
+160.5 d right
+161 f none UpperNormal
+162 s none 
+163 d up SpanishLeft
+163.75 s up
+164.5 d up
+165 a none UpperNormal
+166 d none
+167 s down SpanishRight
+167.75 d down
+168.5 s down
+169 f none UpperNormal
+170 s none
+171 d left CraneRight
+171.75 s left
+172.5 d left
+173 a none UpperNormal
+174 d none
+175 s right CraneLeft
+175.75 d right
+176.5 s right
+178 a left None
+180 f left
+182 d right LlamaRight
+184 s right
+186 f up None
+188 a up
+190 s down LlamaLeft
+192 d down
+194 a none None
+196 f none
+198 f none UpperNormal
+199 d none
+199.75 s none
+200.5 a none
+201 a,f none None
+209 s,d none VerticalRight
+210 a,d none SplitRight
+210.75 s,f none SplitLeft
+211.5 a,f none
+212 a,s,d,f none None
+213 a none UpperNormal
+214 f none SpanishLeft
+214.75 d none
+215.5 s none None
+217 f none UpperNormal
+218 a none SpanishRight
+218.75 s none
+219.5 d none None
+220 a,f none
+220.5 s,d none
+221 a none UpperNormal
+222 f none SpanishLeft
+222.75 d none
+223.5 s none None
+225 f none UpperNormal
+226 a none SpanishRight
+226.75 s none
+227.5 d none None
+228 s,d none
+228.5 a,f none
+229 a none UpperNormal
+229.5 s none
+230 d,f none LlamaRight
+230.75 d,f none
+231.5 d,f none None
+232 f none
+232.5 d none
+233 a none UpperNormal
+233.5 s none
+234 d,f none LlamaLeft
+234.75 d,f none
+235.5 d,f none None
+236 a none
+236.5 s none 
+237 f none UpperNormal
+237.5 d none
+238 a,s none LlamaRight
+238.75 a,s none
+239.5 a,s none None
+240 a none
+240.5 s none
+241 f none UpperNormal
+241.5 d none
+242 a,s none LlamaLeft
+242.75 a,s none
+243.5 a,s none None
+244 f none
+244.5 d none
+245 a none CraneRight
+246 s none
+246.75 d none
+247.5 f none
+248 f none
+249 f none FlamingoRight
+249.75 d,f none
+250.5 s,f none
+251.25 a,f none
+252 s,f none
+252.5 d,f none
+253 f none CraneLeft
+254 d none
+254.75 s none
+255.5 a none
+256 a none
+257 a none FlamingoLeft
+257.75 a,s none
+258.5 a,d none
+259.25 a,f none
+260 a,d none
+260.5 a,s none
+261 a none SpanishLeft
+262 f none
+262.75 s none
+263.25 d none
+264 f none
+265 f none LlamaRight
+266 a none
+266.75 d none
+267.25 s none
+268 a none
+269 a none CraneRight
+270 f none
+270.75 s none
+271.25 d none
+272 f none
+273 f none Open
+274 a none
+274.75 d none
+275.25 s none
+276 a none
+277 a up SpanishRight
+278 f up
+278.75 s up
+279.25 d up
+280 f up
+281 f down LlamaLeft
+282 a down
+282.75 d down
+283.25 s down
+284 a down
+285 a left CraneLeft
+286 f left
+286.75 s left
+287.25 d left
+288 f left
+289 f right Open
+290 a right
+291 f none
+291.5 d none
+292 s none
+292.5 a none
+293 a none UpperNormal
+297 f none SpanishLeft
+299 a none SpanishRight
+301 f none SpanishLeft
+302 a none SpanishRight
+303 f none SpanishLeft
+304 a none SpanishRight
+305 f none None
+305.5 a none
+306 f none
+306.5 a none
+307 f none
+307.25 a none
+307.5 f none
+307.75 a none
+308 f none
+308.25 a none
+308.5 f none
+308.75 a none
+309 f none Open
+314 a none CraneRight
+316 f none
+318 a none
+318.75 a none
+320 f none
+322 a none CraneLeft
+323.25 f none
+324 f none
+326 a none
+328 f none
+330 a none CraneRight
+332 f none
+334 a none
+336 f none
+338 a none CraneLeft
+340 f none
+342 a none
+343 a none
+343.5 a none
+344 a none
+344.25 s none
+344.5 d none
+344.75 f none
+345 a up SpanishLeft
+346 f up
+347 s up None
+347.75 f up
+348.5 d up
+349 f up SpanishRight
+350 a up
+351 d up None
+351.75 a up
+352.5 s up
+353 a down CraneRight
+354 f down
+355 s down None
+355.75 f down
+356.5 d down
+357 f down CraneLeft
+358 a down
+359 d down None
+359.75 a down
+360.5 s down
+361 a left LlamaRight
+362 f left
+363 s left None
+363.75 f left
+364.5 d left
+365 f left LlamaRight
+366 a left
+367 d left None
+367.75 a left
+368.5 s left
+369 a right LlamaLeft
+370 f right 
+371 s right None
+371.75 f right
+372.5 d right
+373 f right LlamaLeft
+374 a right
+375 f none None
+375.5 f none
+376 f none 
+376.25 d none
+376.5 s none
+376.75 a none
+377 a none UpperNormal
+378 f none SpanishLeft
+379 s,d none LlamaRight
+379.75 a,f none 
+380.5 s,d none
+381 f none UpperNormal
+382 a none SpanishRight
+383 s,d none LlamaLeft
+383.75 a,f none
+384.5 s,d none
+385 a none FlamingoRight
+386 f none
+387 s none FlamingoLeft
+388 d none
+389 a none VerticalRight
+390 f none
+391 s,d none None
+391.75 a,f none
+393 a none CraneRight
+394 f none
+395 s,d none
+395.75 a,f none
+396.5 s,d none
+397 f none CraneLeft
+398 a none
+399 s,d none
+399.75 a,f none
+400.5 s,d none
+401 a none UpperNormal
+402 f none 
+403 s none
+403.75 d none
+404.5 s none
+405 a none CraneRight
+405.5 s none
+406 d none
+406.5 f none
+407 s,d none CraneLeft
+407.5 a,f none
+408 s,d none None
+412.5 a,f none Open
+470

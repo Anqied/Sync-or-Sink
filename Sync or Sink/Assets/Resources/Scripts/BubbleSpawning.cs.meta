@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fdff5605efff596419569bcd35641354
+timeCreated: 1517419379
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bubble: {instanceID: 0}
+  - BubbleUp: {instanceID: 0}
+  - BubbleDown: {instanceID: 0}
+  - BubbleLeft: {instanceID: 0}
+  - BubbleRight: {instanceID: 0}
+  - toSpawn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
